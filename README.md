@@ -73,14 +73,9 @@ All the articles I've read and plan to read.<br>
   - [ ] [Deep reinforcement learning with double q-learning](https://scholar.google.com/citationsview_op=view_citation&hl=en&user=-8DNE4UAAAAJ&citation_for_view=-8DNE4UAAAAJ:iH-uZ7U-co4C)
   - [ ] [The road to modern AI](https://arxiv.org/ftp/arxiv/papers/2212/2212.11279.pdf)
 
-## Courses
-Here are some of the courses I took:
-  - [ ] [Reinforcement Learning - MVA](http://researchers.lille.inria.fr/~lazaric/Webpage/Teaching.html) by [Alessandro Lazaric](http://researchers.lille.inria.fr/~lazaric/Webpage/Home/Home.html)<br>
-  - [x] [Reinforcement Learning - Scool](https://philippe-preux.github.io/Documents/digest-ar.pdf) by [Philippe Preux](https://philippe-preux.github.io/)<br>
-  - [x] [Game Theory and Applications](https://www.dropbox.com/s/lkbqe5i3wgc3on3/support.pdf?dl=0) by [Bruno Tuffin](https://people.rennes.inria.fr/Bruno.Tuffin/) and [Patrick Maillé](https://www.imt-atlantique.fr/fr/personne/patrick-maille) <br>
-  - [x] Markov Chains by [Bruno Tuffin](https://people.rennes.inria.fr/Bruno.Tuffin/) and [Bruno Sericola](https://scholar.google.fr/citations?user=YOQcueAAAAAJ&hl=fr) <br>
-  - [x] [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) by [François Chollet](https://fchollet.com/)
-  - [x] [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&ab_channel=MichiganOnline) by [Justin Johnson](https://web.eecs.umich.edu/~justincj/) <br>
+## Other
+  - [x] [(30u30) RNNs and LSTMS notes📝](./WebPages/RNN_LSTM.pdf)<br>
+
 
 ## Books
 Here are some books that I read or plan to read:
@@ -90,9 +85,11 @@ Here are some books that I read or plan to read:
   - [ ] [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/) by [Stefano V. Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/), [Filippos Christianos](https://fchristianos.com/) and [Lukas Schäfer](https://www.marl-book.com/) <br>
   - [x] [An introduction to Reinforcement Learning](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by [Richard S. Sutton](http://incompleteideas.net/) and [Andrew G. Barto](https://people.cs.umass.edu/~barto/) <br>
   - [ ] [Software Engineering at Google](https://abseil.io/resources/swe-book) and the book in short [SWE at Google in short](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+  - [x] [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) by [François Chollet](https://fchollet.com/)
 
 ## Blogs and Videos
 Here are some blogs, videos or webpages that I found interseting:
   - [x] [CONFERENCE JENSEN HUANG (NVIDIA) and ILYA SUTSKEVER (OPEN AI): AI TODAY AND VISION OF THE FUTURE📝](./WebPages/Discussion%20Ilya%20x%20Jensen%2073db3112e6e34b4896dc9b97cc9ae961.md) by [Ilya Sutskever](https://www.cs.utoronto.ca/~ilya/) and [Jensen Huang](https://www.nvidia.com/fr-fr/)<br>
   - [ ] [Quality-Diversity optimisation algorithms](https://quality-diversity.github.io/) by [Antoine Cully](https://scholar.google.fr/citations?user=rZtJlPQAAAAJ&hl=fr), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) and [Stephane Doncieux](https://pages.isir.upmc.fr/sdoncieux/)<br>
   - [x] [I am Jürgen Schmidhuber, Ask Me Anything!](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/) by [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)<br>
+  - [x] [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&ab_channel=MichiganOnline) by [Justin Johnson](https://web.eecs.umich.edu/~justincj/) <br>
