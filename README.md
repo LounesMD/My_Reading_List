@@ -53,7 +53,8 @@ All the articles I've read and plan to read.<br>
     Team involved : [DeepMind](https://deepmind.com/), [Google](https://research.google/)
   - [x] [Reward is enough📝](./WebPages/Reward%20is%20enough%207124d06520804f9dab3525e2eb6550bb.md)<br>
     Team involved : [Google](https://research.google/)
-
+  - [x] [(30u30) Recurrent Neural Network Regularization📝](./WebPages/RECURRENT%20NEURAL%20NETWORK%20REGULARIZATION%20e83b1851ab7945e7a9fee0f37e566677.md)<br>
+    Team involved : [Google](https://research.google/)
 
 #### Research oriented papers
   - [x] [Writing a research article: advice to beginners📝](./WebPages/Writing%20a%20research%20article%20advice%20to%20beginners%20684ac4664202472c85c481886be1049a.md)<br>
@@ -64,7 +65,7 @@ All the articles I've read and plan to read.<br>
 
 
 ### To read
-  - [ ] [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) by [Ilya Sutskever]()
+  - [ ] [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) (2/30) by [Ilya Sutskever]()
   - [ ] [Making the World Differentiable](https://people.idsia.ch/~juergen/FKI-126-90_(revised)bw_ocr.pdf)
   - [ ] [Player of Games](https://arxiv.org/abs/2112.03178)
   - [ ] [Approximate exploitability: Learning a best response in large games](https://arxiv.org/abs/2004.09677)
