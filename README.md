@@ -1,5 +1,5 @@
-# My ML reading list
-In  this repo, I save notes of papers I read and found interesting. Most of them were recommended to read.
+# My ML bookshelf
+In  this repo, I save notes of papers, books, blogs, etc I read and found interesting. Most of them were recommended to read.
 
 ## Papers
 All the articles I've read and plan to read.<br>
@@ -70,7 +70,6 @@ All the articles I've read and plan to read.<br>
   - [ ] [Player of Games](https://arxiv.org/abs/2112.03178)
   - [ ] [Approximate exploitability: Learning a best response in large games](https://arxiv.org/abs/2004.09677)
   - [ ] [Towards a Better Understanding of Representation Dynamics under TD-learning](https://arxiv.org/abs/2305.18491)
-  - [ ] [MAESTRO: OPEN-ENDED ENVIRONMENT DESIGN FOR MULTI-AGENT REINFORCEMENT LEARNING](https://openreview.net/pdf?id=sKWlRDzPfd7)
   - [ ] [Deep reinforcement learning with double q-learning](https://scholar.google.com/citationsview_op=view_citation&hl=en&user=-8DNE4UAAAAJ&citation_for_view=-8DNE4UAAAAJ:iH-uZ7U-co4C)
   - [ ] [The road to modern AI](https://arxiv.org/ftp/arxiv/papers/2212/2212.11279.pdf)
 
