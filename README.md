@@ -77,16 +77,18 @@ All the articles I've read and plan to read.<br>
 ## Other
   - [x] [(30u30) RNNs and LSTMS notes📝](./WebPages/RNN_LSTM.pdf)<br>
 
-
 ## Books
-Here are some books that I read or plan to read:
+Here are some books I keep somewhere if needed:
+  - [ ] [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/) by [Christopher Bishop](https://scholar.google.com/citations?user=gsr-K3ADUvAC)<br>
+  - [ ] [Pattern recognition and machine learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by [Christopher Bishop](https://scholar.google.com/citations?user=gsr-K3ADUvAC)<br>
+  - [ ] [Software Engineering at Google](https://abseil.io/resources/swe-book) and the book in short [SWE at Google in short](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+  - [x] [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) by [François Chollet](https://fchollet.com/)
+  - [ ] [The Book of Statistical Proofs](https://statproofbook.github.io/) by Joram Soch et al.<br>
   - [ ] [Mathematics of Statistical Sequential Decision Making](https://hal.science/tel-02162189) by [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/)<br>
   - [ ] [Statistical Learning and Sequential Prediction](https://www.mit.edu/~rakhlin/courses/stat928/stat928_notes.pdf) by [Karthik Sridharan](https://www.cs.cornell.edu/~sridharan/) and [Sasha Rakhlin](https://www.mit.edu/~rakhlin/)
   - [ ] [Algorithms for decision making](https://algorithmsbook.com/#outline) by [Mykel J. Kochenderfer](https://mykel.kochenderfer.com/), [Tim A. Wheeler](http://timallanwheeler.com/miniport/home.html) and [Kyle H. Wray](https://kylewray.com/)
   - [ ] [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/) by [Stefano V. Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/), [Filippos Christianos](https://fchristianos.com/) and [Lukas Schäfer](https://www.marl-book.com/) <br>
   - [x] [An introduction to Reinforcement Learning](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by [Richard S. Sutton](http://incompleteideas.net/) and [Andrew G. Barto](https://people.cs.umass.edu/~barto/) <br>
-  - [ ] [Software Engineering at Google](https://abseil.io/resources/swe-book) and the book in short [SWE at Google in short](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-  - [x] [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) by [François Chollet](https://fchollet.com/)
 
 ## Blogs and Videos
 Here are some blogs, videos or webpages that I found interseting:
