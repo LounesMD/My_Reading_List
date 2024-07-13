@@ -57,6 +57,8 @@ All the articles I've read and plan to read.<br>
     Team involved: [Google](https://research.google/)
   - [x] [(30u30) Keeping Neural Networks Simple by Minimizing the Description Length of the Weights📝](./WebPages/Keeping%20Neural%20Networks%20Simple%20by%20Minimizing%20the%20D%20abb9af3ee9dc46abbcd3a4c41ac3ccc2.md)<br>
     Team involved: [Uni. of Toronto](https://www.cs.toronto.edu/~hinton/)
+  - [x] [(30u30) ImageNet Classification with Deep Convolutional Neural Networks📝](./WebPages/ImageNet/ImageNet%20Classification%20with%20Deep%20Convolutional%20Ne%20aeed49b9005b470f9c572152eb820f98.md)<br>
+    Team involved: [Uni. of Toronto](https://www.cs.toronto.edu/~hinton/)
 
 #### Research oriented papers
   - [x] [Writing a research article: advice to beginners📝](./WebPages/Writing%20a%20research%20article%20advice%20to%20beginners%20684ac4664202472c85c481886be1049a.md)<br>
@@ -67,7 +69,7 @@ All the articles I've read and plan to read.<br>
 
 
 ### To read
-  - [ ] [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) (4/30) by [Ilya Sutskever]()
+  - [ ] [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) (5/30) by [Ilya Sutskever]()
   - [ ] [Making the World Differentiable](https://people.idsia.ch/~juergen/FKI-126-90_(revised)bw_ocr.pdf)
   - [ ] [Player of Games](https://arxiv.org/abs/2112.03178)
   - [ ] [Approximate exploitability: Learning a best response in large games](https://arxiv.org/abs/2004.09677)
