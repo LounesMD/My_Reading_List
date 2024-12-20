@@ -60,12 +60,23 @@ All the articles I've read and plan to read.<br>
   - [x] [(30u30) ImageNet Classification with Deep Convolutional Neural Networks📝](./WebPages/ImageNet/ImageNet%20Classification%20with%20Deep%20Convolutional%20Ne%20aeed49b9005b470f9c572152eb820f98.md)<br>
     Team involved: [Uni. of Toronto](https://www.cs.toronto.edu/~hinton/)
 
-#### Research oriented papers
+#### Research talks & Writing research articles (tips)
   - [x] [Writing a research article: advice to beginners📝](./WebPages/Writing%20a%20research%20article%20advice%20to%20beginners%20684ac4664202472c85c481886be1049a.md)<br>
   - [ ] [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf)<br>
   - [x] [Writing a Good Research Paper](https://vincentlepetit.github.io/files/paper_writing.pdf) by [Vincent Lepetit](https://vincentlepetit.github.io/)<br>
   - [x] How to write a great research paper: [Slides](https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-write-a-great-research-paper.pdf) and [Video](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) by [Simon Peyton Jones](https://simon.peytonjones.org/)<br>
   - [ ] How to give a great research talk: [Slides](https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-give-a-great-research-talk.pdf), [Video](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/) and [Paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)<br>
+  - [ ] How to give a talk and write a paper (last slides): [Slides](https://www.di.ens.fr/willow/teaching/recvis20/slides/lecture10_vision_for_robotics.pdf) by [Ivan Laptev](https://www.di.ens.fr/~laptev/)<br>
+  - [ ] Ten Simple Rules for Mathematical Writing: [Web page](https://www.mit.edu/~dimitrib/Ten_Rules.html) by [Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/home.html)<br>
+  - [ ] What's wrong with these equations?: [PDF](https://wp.optics.arizona.edu/kupinski/wp-content/uploads/sites/91/2023/05/MerminEquations.pdf) by [David Mermin]()<br>
+  - [ ] Notes on Technical Writing: [PDF](https://web.mnstate.edu/jamesju/Spr2019/Content/KnuthTechnicalWritingNotes.pdf) by [Don Knuth]()<br>
+  - [ ] How to Get Your SIGGRAPH Paper Rejected: [PDF](https://www.siggraph.org/sites/default/files/kajiya.pdf) by [Jim Kajiya]()<br>
+  - [ ] How to write a good research paper: [Slides](https://deviparikh.com/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf) by [Bill Freeman](https://billf.mit.edu/)<br>
+    - [ ] Elements of a successful graduate career: [Slides](https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)<br>
+    - [ ] How to do research: [Slides](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)<br>
+  - [ ] Writing papers and giving talks: [Slides](https://www.di.ens.fr/willow/teaching/recvis12/slides/lecture23TalksAndPapers.pdf) by [Bill Freeman](https://billf.mit.edu/)<br>
+  - [ ] Pointers on giving a talk: [Web site](https://people.eecs.berkeley.edu/~messer/Bad_talk.html) by [David G. Messerschmitt](https://people.eecs.berkeley.edu/~messer/)<br>
+
 
 
 ### To read
