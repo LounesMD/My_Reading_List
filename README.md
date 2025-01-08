@@ -6,59 +6,59 @@ All the articles I've read and plan to read.<br>
 ### Read
 #### ML Related papers
   - [x] [Complexity of Planning with Partial Observability](https://www.aaai.org/Papers/ICAPS/2004/ICAPS04-041.pdf) <br>
-    Teams involved: [Albert-Ludwigs-Universität Freiburg, Institut für Informatik](https://www.informatik.uni-freiburg.de/)
+    <!-- Teams involved: [Albert-Ludwigs-Universität Freiburg, Institut für Informatik](https://www.informatik.uni-freiburg.de/) -->
   - [x] [An introduction to Reinforcement Learning](http://incompleteideas.net/book/bookdraft2017nov5.pdf) and its [video](https://www.youtube.com/watch?v=LyCpuLikLyQ&ab_channel=WeiWei) <br>
-    Researchers involved: [Richard S. Sutton](http://incompleteideas.net/) and [Andrew G. Barto](https://people.cs.umass.edu/~barto/)
+    <!-- Researchers involved: [Richard S. Sutton](http://incompleteideas.net/) and [Andrew G. Barto](https://people.cs.umass.edu/~barto/) -->
   - [x] [World Models](https://arxiv.org/pdf/1803.10122.pdf) <br>
-    Teams involved: [Google Brain](https://research.google/teams/brain/), [NNAISENSE](https://nnaisense.com/) and [Swiss AI Lab, IDSIA](https://www.idsia.ch/)
+    <!-- Teams involved: [Google Brain](https://research.google/teams/brain/), [NNAISENSE](https://nnaisense.com/) and [Swiss AI Lab, IDSIA](https://www.idsia.ch/) -->
   - [x] [Gans](https://arxiv.org/pdf/1406.2661.pdf) and [its analysis](https://www.youtube.com/watch?v=eyxmSmjmNS0&ab_channel=YannicKilcher) <br>
-    Teams involved: [Université de Montreal](https://diro.umontreal.ca/accueil/)
+    <!-- Teams involved: [Université de Montreal](https://diro.umontreal.ca/accueil/) -->
   - [x] [Learn more about (finite) MDPs](http://incompleteideas.net/book/bookdraft2017nov5.pdf) <br>
-    Researchers involved: [Richard S. Sutton](http://incompleteideas.net/) and [Andrew G. Barto](https://people.cs.umass.edu/~barto/)
+    <!-- Researchers involved: [Richard S. Sutton](http://incompleteideas.net/) and [Andrew G. Barto](https://people.cs.umass.edu/~barto/) -->
   - [x] [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://www.nature.com/articles/s41586-021-04357-7) <br>
-    Teams involved: [Sony AI](https://ai.sony/)
+    <!-- Teams involved: [Sony AI](https://ai.sony/) -->
   - [x] [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/pdf/2208.01160.pdf) <br>
-    Teams involved: [RAIL lab](http://rail.eecs.berkeley.edu/) and [MILA](https://mila.quebec/en/)
+    <!-- Teams involved: [RAIL lab](http://rail.eecs.berkeley.edu/) and [MILA](https://mila.quebec/en/) -->
   - [x] [Improving Intrinsic Exploration with Language Abstractions](https://arxiv.org/pdf/2202.08938.pdf) <br>
-    Teams involved: [Stanford NLP Group](https://nlp.stanford.edu/), [Stanford AI Lab](https://ai.stanford.edu/), [Allen School's Natural Language Processing](https://www.cs.washington.edu/research/nlp) [META AI Researh](https://ai.facebook.com/), [DARK Lab](https://ucldark.com/) and [Cohere](https://cohere.ai/)
+    <!-- Teams involved: [Stanford NLP Group](https://nlp.stanford.edu/), [Stanford AI Lab](https://ai.stanford.edu/), [Allen School's Natural Language Processing](https://www.cs.washington.edu/research/nlp) [META AI Researh](https://ai.facebook.com/), [DARK Lab](https://ucldark.com/) and [Cohere](https://cohere.ai/) -->
   - [x] [Exploration via Elliptical Episodic Bonuses](https://arxiv.org/pdf/2210.05805.pdf) and [OpenReview](https://openreview.net/forum?id=Xg-yZos9qJQ) <br>
-  Teams involved: [META AI Researh](https://ai.facebook.com/) and [DARK Lab](https://ucldark.com/)
+  <!-- Teams involved: [META AI Researh](https://ai.facebook.com/) and [DARK Lab](https://ucldark.com/) -->
   - [x] [Accelerated Quality-Diversity through Massive Parallelism](https://arxiv.org/pdf/2202.01258.pdf) <br>
-    Teams involved: [Adaptive & Intelligent Robotics Lab](https://www.imperial.ac.uk/adaptive-intelligent-robotics/publications/) at the [Imperial College London](https://www.imperial.ac.uk/)
+    <!-- Teams involved: [Adaptive & Intelligent Robotics Lab](https://www.imperial.ac.uk/adaptive-intelligent-robotics/publications/) at the [Imperial College London](https://www.imperial.ac.uk/) -->
   - [x] [Discovering and Exploiting Sparse Rewards in a Learned Behavior Space](https://arxiv.org/pdf/2111.01919.pdf) <br>
-    Teams involved: [AI Lab, SoftBank Robotics Europe](https://www.softbankrobotics.com/) and [Institut des Systémes Intelligents et de Robotique, ISIR](https://www.isir.upmc.fr/equipes/amac/)
+    <!-- Teams involved: [AI Lab, SoftBank Robotics Europe](https://www.softbankrobotics.com/) and [Institut des Systémes Intelligents et de Robotique, ISIR](https://www.isir.upmc.fr/equipes/amac/) -->
   - [x] [Sparse Reward Exploration via Novelty Search and Emitters](https://arxiv.org/pdf/2102.03140.pdf) <br>
-    Teams involved: [AI Lab, SoftBank Robotics Europe](https://www.softbankrobotics.com/) and [Institut des Systémes Intelligents et de Robotique, ISIR](https://www.isir.upmc.fr/equipes/amac/)
+    <!-- Teams involved: [AI Lab, SoftBank Robotics Europe](https://www.softbankrobotics.com/) and [Institut des Systémes Intelligents et de Robotique, ISIR](https://www.isir.upmc.fr/equipes/amac/) -->
   - [x] [Emergence of Spatial Coordinates via Exploration](https://arxiv.org/pdf/2010.15469.pdf) <br>
-    Team involved: [AI Lab, SoftBank Robotics Europe](https://www.softbankrobotics.com/)
+    <!-- Team involved: [AI Lab, SoftBank Robotics Europe](https://www.softbankrobotics.com/) -->
   - [x] [Generalization in Cooperative Multi-Agent Systems](https://arxiv.org/pdf/2202.00104.pdf) <br>
-    Team involved: [WhiRL](http://whirl.cs.ox.ac.uk/index.html) and [DARK Lab](https://ucldark.com/)
+    <!-- Team involved: [WhiRL](http://whirl.cs.ox.ac.uk/index.html) and [DARK Lab](https://ucldark.com/) -->
   - [x] [(MuZero) Mastering Atari, Go, chess and shogi by planning with a learned model📝](./WebPages/(MuZero)%20Mastering%20Atari%2C%20Go%2C%20chess%20and%20shogi%20by%20p%207bd57d21e0bf4b8fa23fad8842ded445.md) <br>
-    Team involved: [DeepMind](https://deepmind.com/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/) -->
   - [x] [(AlphaZero) Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm📝](./WebPages/(AlphaZero)%20Mastering%20Chess%20and%20Shogi%20by%20Self-Play%206460966613664c28af351340322afdce.md) <br>
-    Team involved: [DeepMind](https://deepmind.com/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/) -->
   - [x] [(AlphaGo Zero) Mastering the game of Go without human knowledge📝](./WebPages/(AlphaGO%20Zero)%20Mastering%20the%20game%20of%20Go%20without%20hu%20558133da88ee461b8107d36fddcf6ea0.md) <br>
-    Team involved: [DeepMind](https://deepmind.com/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/) -->
   - [x] [(AlphaGO) Mastering the game of GO with deep neural networks and tree search📝](./WebPages/(AlphaGO)%20Mastering%20the%20game%20of%20GO%20with%20deep%20neura%20f71f9f55522545b58de0d7e1c0410492.md) <br>
-    Team involved: [DeepMind](https://deepmind.com/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/) -->
   - [x] [(AlphaFold) Mastering the game of GO with deep neural networks and tree search📝](./WebPages/(AlphaGO)%20Mastering%20the%20game%20of%20GO%20with%20deep%20neura%20f71f9f55522545b58de0d7e1c0410492.md) <br>
-    Team involved: [DeepMind](https://deepmind.com/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/) -->
   - [x] [(AlphaTensor) Discovering faster matrix multiplication algorithms with Reinforcement Learning📝](./WebPages/(AlphaTensor)%20Discovering%20faster%20matrix%20multiplica%206e5d564f0366440697a1de1fa4b2d2f6.md)<br>
-    Team involved: [DeepMind](https://deepmind.com/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/) -->
   - [x] [(AlphaFold) Highly accurate protein structure prediction with AlphaFold📝](./WebPages/(AlphaFold)%20Highly%20accurate%20protein%20structure%20pred%20a6b0bd2932304666ae55f0a0aef1f220.md)<br>
-    Team involved: [DeepMind](https://deepmind.com/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/) -->
   - [x] [(DeepNash) Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning📝](./WebPages/(DeepNash)%20Mastering%20the%20game%20of%20Stratego%20with%20mod%20b064bddef212485db6f72bd3c67afd49.md)<br>
-    Team involved: [DeepMind](https://deepmind.com/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/) -->
   - [x] [ETA Prediction with Graph Neural Networks in Google Maps📝](./WebPages/ETA%20Prediction%20with%20Graph%20Neural%20Networks%20in%20Googl%208403ba3951514491adcd478f930cefc6.md)<br>
-    Team involved: [DeepMind](https://deepmind.com/), [Google](https://research.google/)
+    <!-- Team involved: [DeepMind](https://deepmind.com/), [Google](https://research.google/) -->
   - [x] [Reward is enough📝](./WebPages/Reward%20is%20enough%207124d06520804f9dab3525e2eb6550bb.md)<br>
-    Team involved: [Google](https://research.google/)
+    <!-- Team involved: [Google](https://research.google/) -->
   - [x] [(30u30) Recurrent Neural Network Regularization📝](./WebPages/RECURRENT%20NEURAL%20NETWORK%20REGULARIZATION%20e83b1851ab7945e7a9fee0f37e566677.md)<br>
-    Team involved: [Google](https://research.google/)
+    <!-- Team involved: [Google](https://research.google/) -->
   - [x] [(30u30) Keeping Neural Networks Simple by Minimizing the Description Length of the Weights📝](./WebPages/Keeping%20Neural%20Networks%20Simple%20by%20Minimizing%20the%20D%20abb9af3ee9dc46abbcd3a4c41ac3ccc2.md)<br>
-    Team involved: [Uni. of Toronto](https://www.cs.toronto.edu/~hinton/)
+    <!-- Team involved: [Uni. of Toronto](https://www.cs.toronto.edu/~hinton/) -->
   - [x] [(30u30) ImageNet Classification with Deep Convolutional Neural Networks📝](./WebPages/ImageNet/ImageNet%20Classification%20with%20Deep%20Convolutional%20Ne%20aeed49b9005b470f9c572152eb820f98.md)<br>
-    Team involved: [Uni. of Toronto](https://www.cs.toronto.edu/~hinton/)
+    <!-- Team involved: [Uni. of Toronto](https://www.cs.toronto.edu/~hinton/) -->
 
 #### Research talks & Writing research articles (tips)
   - [x] [Writing a research article: advice to beginners📝](./WebPages/Writing%20a%20research%20article%20advice%20to%20beginners%20684ac4664202472c85c481886be1049a.md)<br>
