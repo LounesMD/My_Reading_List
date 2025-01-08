@@ -60,7 +60,7 @@ All the articles I've read and plan to read.<br>
   - [x] [(30u30) ImageNet Classification with Deep Convolutional Neural Networks📝](./WebPages/ImageNet/ImageNet%20Classification%20with%20Deep%20Convolutional%20Ne%20aeed49b9005b470f9c572152eb820f98.md)<br>
     <!-- Team involved: [Uni. of Toronto](https://www.cs.toronto.edu/~hinton/) -->
   - [x] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion]()<br>
-  - [x] [Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction]()
+  - [x] [Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction📝](https://github.com/LounesMD/DeepLearning_MVA)
   - [x] [Test-Time Training with Masked Autoencoders]()<br>
   - [x] [Are Generative Classifiers More Robust to Adversarial Attacks?]()<br>
 
