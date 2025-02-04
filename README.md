@@ -63,6 +63,10 @@ All the articles I've read and plan to read.<br>
   - [x] [Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction📝](https://github.com/LounesMD/DeepLearning_MVA)
   - [x] [Test-Time Training with Masked Autoencoders]()<br>
   - [x] [Are Generative Classifiers More Robust to Adversarial Attacks?]()<br>
+  - [x] [Integer tokenization is insane📝](./WebPages/Integer%20tokenization%20is%20insane%2018b12b726570800aa370ca5e94976389.md)<br>
+  - [x] [DeepSeekMath📝](./WebPages/DeepSeekMath%2019012b72657080d293cdebf310acd931.md)
+
+
 
 #### Research talks & Writing research articles (tips)
   - [x] [Writing a research article: advice to beginners📝](./WebPages/Writing%20a%20research%20article%20advice%20to%20beginners%20684ac4664202472c85c481886be1049a.md)<br>
