@@ -66,7 +66,7 @@ All the articles I've read and plan to read.<br>
   - [x] [Integer tokenization is insane📝](./WebPages/Integer%20tokenization%20is%20insane%2018b12b726570800aa370ca5e94976389.md)<br>
   - [x] [DeepSeekMath📝](./WebPages/DeepSeekMath%2019012b72657080d293cdebf310acd931.md)
   - [x] [LLaDA📝](./WebPages/llada.md)
-  - [x] [GraphCast📝](./Webpages/GraphCast.md)
+  - [x] [GraphCast📝](./WebPages/GraphCast.md)
 
 
 
