@@ -77,3 +77,5 @@ GraphCast is also evaluated on individual events—tropical‑cyclone tracks, at
 [ERA5] H. Hersbach et al. The ERA5 global reanalysis: [https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3803](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3803) (2020)
 
 [VIDEO] Ferran Allet on GraphCast: [https://www.youtube.com/watch?v=PD1v5PCJs_o](https://www.youtube.com/watch?v=PD1v5PCJs_o)
+
+[GitHub] GraphCast repo: https://github.com/google-deepmind/graphcast
