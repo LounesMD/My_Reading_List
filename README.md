@@ -69,7 +69,7 @@ All the articles I've read and plan to read.<br>
   - [x] [GraphCast: Learning skilful medium-range global weather forecasting📝](./WebPages/GraphCast.md)
   - [x] [GenCast: Diffusion-based ensemble forecasting for medium-range weather📝](./WebPages/GenCast.md)
   - [ ] [ArchesWeather & ArchesWeatherGen: A Deterministic and Generative Model for ML Weather Forecasting]()
-  - [ ] [Neural GCM: Neural General Circulation Models for Weather and Climate]()
+  - [x] [Neural GCM: Neural General Circulation Models for Weather and Climate](./WebPages/NeuralGCM.md)
 
 
 
