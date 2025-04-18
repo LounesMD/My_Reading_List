@@ -67,8 +67,9 @@ All the articles I've read and plan to read.<br>
   - [x] [DeepSeekMath📝](./WebPages/DeepSeekMath%2019012b72657080d293cdebf310acd931.md)
   - [x] [LLaDA📝](./WebPages/llada.md)
   - [x] [GraphCast: Learning skilful medium-range global weather forecasting📝](./WebPages/GraphCast.md)
-  - [ ] [GenCast: Diffusion-based ensemble forecasting for medium-range weather📝]()
-  - [ ] [ArchesWeather & ArchesWeatherGen: A Deterministic and Generative Model for ML Weather Forecasting📝]()
+  - [x] [GenCast: Diffusion-based ensemble forecasting for medium-range weather📝](./WebPages/GenCast.md)
+  - [ ] [ArchesWeather & ArchesWeatherGen: A Deterministic and Generative Model for ML Weather Forecasting]()
+  - [ ] [Neural GCM: Neural General Circulation Models for Weather and Climate]()
 
 
 
