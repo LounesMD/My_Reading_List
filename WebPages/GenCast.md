@@ -49,6 +49,7 @@ For probabilistic verification, the authors use the **spread–skill ratio** and
 
 - GenCast still depends on **ERA5 re‑analysed data**, whereas HRES and ENS uses real‑time analyses.
 - The paper suggests **distillation plus higher resolution** as a good way to operational use.
+- GitHub repo: https://github.com/google-deepmind/graphcast
 
 ## References:
 
