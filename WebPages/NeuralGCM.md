@@ -42,3 +42,5 @@ As with other recent work, the model is trained on **ERA5** data.
 References:
 
 [Video] S. Hoyer, NeuralGCM: [https://www.youtube.com/watch?v=n4Rw3RlpyJw](https://www.youtube.com/watch?v=n4Rw3RlpyJw) (2024)
+
+![image.png](NeuralGCM/gcm_slide.png)

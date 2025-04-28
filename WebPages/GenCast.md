@@ -60,3 +60,5 @@ For probabilistic verification, the authors use the **spread–skill ratio** and
 [DM3] Y. Song et al. Score-based generative through stochastic differential equations (2021)
 
 [DPMSS] C. Ly et al. DPM-SOLVER++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models (2022)
+
+![image.png](GenCast/gen_slide.png)

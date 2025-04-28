@@ -79,3 +79,5 @@ GraphCast is also evaluated on individual events—tropical‑cyclone tracks, at
 [VIDEO] Ferran Allet on GraphCast: [https://www.youtube.com/watch?v=PD1v5PCJs_o](https://www.youtube.com/watch?v=PD1v5PCJs_o)
 
 [GitHub] GraphCast repo: https://github.com/google-deepmind/graphcast
+
+![image.png](GraphCast/grc_slide.png)
