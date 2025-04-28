@@ -69,11 +69,11 @@ All the articles I've read and plan to read.<br>
   - [x] [GraphCast: Learning skilful medium-range global weather forecasting📝](./WebPages/GraphCast.md)
   - [x] [GenCast: Diffusion-based ensemble forecasting for medium-range weather📝](./WebPages/GenCast.md)
   - [ ] [ArchesWeather & ArchesWeatherGen: A Deterministic and Generative Model for ML Weather Forecasting]()
-  - [x] [Neural GCM: Neural General Circulation Models for Weather and Climate](./WebPages/NeuralGCM.md)
+  - [x] [Neural GCM: Neural General Circulation Models for Weather and Climate📝](./WebPages/NeuralGCM.md)
 
 
 
-#### Research talks & Writing research articles (tips)
+#### Research blogs, talks & writing tips
   - [x] [Writing a research article: advice to beginners📝](./WebPages/Writing%20a%20research%20article%20advice%20to%20beginners%20684ac4664202472c85c481886be1049a.md)<br>
   - [ ] [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf)<br>
   - [x] [Writing a Good Research Paper](https://vincentlepetit.github.io/files/paper_writing.pdf) by [Vincent Lepetit](https://vincentlepetit.github.io/)<br>
@@ -89,7 +89,7 @@ All the articles I've read and plan to read.<br>
     - [ ] How to do research: [Slides](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)<br>
   - [ ] Writing papers and giving talks: [Slides](https://www.di.ens.fr/willow/teaching/recvis12/slides/lecture23TalksAndPapers.pdf) by [Bill Freeman](https://billf.mit.edu/)<br>
   - [ ] Pointers on giving a talk: [Web site](https://people.eecs.berkeley.edu/~messer/Bad_talk.html) by [David G. Messerschmitt](https://people.eecs.berkeley.edu/~messer/)<br>
-
+  - [ ] [Navigating the Ph.D. Odyssey: A Resource Toolkit](https://amarmeddahi.github.io/phd_toolkit.html) by [Amar Meddahi](https://amarmeddahi.github.io/)
 
 
 ### To read
@@ -126,3 +126,7 @@ Here are some blogs, videos or webpages that I found interseting:
   - [x] [I am Jürgen Schmidhuber, Ask Me Anything!](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/) by [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)<br>
   - [x] [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&ab_channel=MichiganOnline) by [Justin Johnson](https://web.eecs.umich.edu/~justincj/) <br>
   - [x] [The Full Reinforcement Learning Iceberg📝](./WebPages/PufferLib.md) by [Joseph Suarez](https://twitter.com/jsuarez5341?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) <br>
+
+## Random slide decks
+  - [ ] [Gemini Pretraining](https://vladfeinberg.com/assets/2025-04-24-princeton-talk.pdf#page=52.00)
+  - [ ] [Computational Complexity of Air Travel Planning](http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf)
