@@ -105,6 +105,8 @@ All the articles I've read and plan to read.<br>
   - [x] [(30u30) RNNs and LSTMS notes📝](./WebPages/RNN_LSTM.pdf)<br>
   - [x] [(30u30) The first law of complexodynamics📝](./WebPages/f1aa7fd3-7445-4d8e-939f-cc7a38156d77_Export-45bb3038-2dd5-4081-b98d-7f49c481ca16/The%20first%20law%20of%20complexodynamics%2005b3e3a999024d8a8650400cf3dbc71f.md)<br>
     Author: [Scott Aaronson](https://scottaaronson.blog/)
+- [x] [(Event - CDF) AI and Math for Meteorology and Climatology](./WebPages/AIMathForMeteorologyAndClimatology.md)
+
 
 ## Books
 Here are some books I keep somewhere if needed:
