@@ -6,12 +6,14 @@
 - Goal of the conference: bring together mathematics, physics, and AI to address challenges in weather and climate modelling.
 
 ![IMG_2520.jpeg](AIMathForMeteorologyAndClimatology/IMG_2520.jpeg)
+Video: https://www.youtube.com/watch?v=YqUrweQfDV0
 
 ---
 
 ## Michael Brenner – Neural GCM & Learning Force Fields
 
 ![IMG_2521.jpeg](AIMathForMeteorologyAndClimatology/IMG_2521.jpeg)
+Video: https://youtu.be/XAMP_0Mya6w?si=FjnTmr3y9uIxVrjm
 
 ### Motivation
 
@@ -65,6 +67,7 @@
 ---
 
 ## Thomas Dubos – Hamiltonian Insights & Unresolved Processes
+Video: https://youtu.be/M4p3x7t7fhM?si=C5wwFAIRq9_SRn81
 
 - Models separate into:
     - **Resolved dynamics**: reversible (fluid motion, gravity, rotation).
@@ -84,6 +87,7 @@
 ## Claire Monteleoni – Generative & Self-Supervised ML for Climate
 
 ![IMG_2524.jpeg](AIMathForMeteorologyAndClimatology/IMG_2524.jpeg)
+Video: https://youtu.be/a5kpTC10SxE?si=-8k_K2-MnxhKXJXi
 
 - **Extreme climate events are increasing**, with uneven impacts (climate justice).
 - Objective: Develop AI models to **forecast dangerous events** for vulnerable populations.
@@ -132,6 +136,7 @@
 ## Remi Lam – Learning Global Weather Forecasting from Data
 
 ![IMG_2525.jpeg](AIMathForMeteorologyAndClimatology/IMG_2525.jpeg)
+Video: https://youtu.be/PI7OilANWRs?si=bXV85OhYNfq_P8z7
 
 - Goal: Use data to **improve forecast quality** efficiently.
 
@@ -172,6 +177,7 @@
 ---
 
 ## Marc Bocquet – AI for Geophysical Data Assimilation
+Video: https://youtu.be/UTSbP5A7LWk?si=XcV7HuO0SCyEk_nZ
 
 - *(Note: content incomplete)*
 - Focused on combining AI with **data assimilation** (blending model outputs and observations).
@@ -179,6 +185,7 @@
 ---
 
 ## Laure Zanna – Reshaping Climate Modelling with AI
+Video: https://youtu.be/9xr2WBzzbPs?si=8nu4Bj6o-zFcl7mr
 
 ### Goal
 
