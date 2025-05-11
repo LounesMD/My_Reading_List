@@ -123,11 +123,13 @@ Here are some books I keep somewhere if needed:
 
 ## Blogs and Videos
 Here are some blogs, videos or webpages that I found interseting:
+  - [ ] [AI Seminar Series](https://youtube.com/playlist?list=PL1Q2j1q9xaQyYA1fyVUIBnlGcLqnZGthQ&si=ECRb_YMX_PYXHoys) by M. Debbah
   - [x] [CONFERENCE JENSEN HUANG (NVIDIA) and ILYA SUTSKEVER (OPEN AI): AI TODAY AND VISION OF THE FUTURE📝](./WebPages/Discussion%20Ilya%20x%20Jensen%2073db3112e6e34b4896dc9b97cc9ae961.md) by [Ilya Sutskever](https://www.cs.utoronto.ca/~ilya/) and [Jensen Huang](https://www.nvidia.com/fr-fr/)<br>
   - [ ] [Quality-Diversity optimisation algorithms](https://quality-diversity.github.io/) by [Antoine Cully](https://scholar.google.fr/citations?user=rZtJlPQAAAAJ&hl=fr), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) and [Stephane Doncieux](https://pages.isir.upmc.fr/sdoncieux/)<br>
   - [x] [I am Jürgen Schmidhuber, Ask Me Anything!](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/) by [Jürgen Schmidhuber](https://people.idsia.ch/~juergen/)<br>
   - [x] [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&ab_channel=MichiganOnline) by [Justin Johnson](https://web.eecs.umich.edu/~justincj/) <br>
   - [x] [The Full Reinforcement Learning Iceberg📝](./WebPages/PufferLib.md) by [Joseph Suarez](https://twitter.com/jsuarez5341?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) <br>
+
 
 ## Random slide decks
   - [ ] [Gemini Pretraining](https://vladfeinberg.com/assets/2025-04-24-princeton-talk.pdf#page=52.00)
