@@ -100,6 +100,7 @@ All the articles I've read and plan to read.<br>
   - [ ] [Towards a Better Understanding of Representation Dynamics under TD-learning](https://arxiv.org/abs/2305.18491)
   - [ ] [Deep reinforcement learning with double q-learning](https://scholar.google.com/citationsview_op=view_citation&hl=en&user=-8DNE4UAAAAJ&citation_for_view=-8DNE4UAAAAJ:iH-uZ7U-co4C)
   - [ ] [The road to modern AI](https://arxiv.org/ftp/arxiv/papers/2212/2212.11279.pdf)
+  - [ ] [Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2504.12501)
 
 ## Other
   - [x] [(30u30) RNNs and LSTMS notes📝](./WebPages/RNN_LSTM.pdf)<br>
