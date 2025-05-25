@@ -71,7 +71,7 @@ All the articles I've read and plan to read.<br>
   - [x] [GenCast: Diffusion-based ensemble forecasting for medium-range weather📝](./WebPages/GenCast.md)
   - [ ] [ArchesWeather & ArchesWeatherGen: A Deterministic and Generative Model for ML Weather Forecasting]()
   - [x] [Neural GCM: Neural General Circulation Models for Weather and Climate📝](./WebPages/NeuralGCM.md)
-  - [ ] [Aurora: A Foundation Model for the Earth System]()
+  - [x] [Aurora: A Foundation Model for the Earth System📝](./WebPages/Aurora.md)
   - [ ] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030)
   - [ ] [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795)
 
