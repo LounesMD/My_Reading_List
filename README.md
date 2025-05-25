@@ -66,11 +66,14 @@ All the articles I've read and plan to read.<br>
   - [x] [Integer tokenization is insane📝](./WebPages/Integer%20tokenization%20is%20insane%2018b12b726570800aa370ca5e94976389.md)<br>
   - [x] [DeepSeekMath📝](./WebPages/DeepSeekMath%2019012b72657080d293cdebf310acd931.md)
   - [x] [LLaDA📝](./WebPages/llada.md)
+  - [ ] [Pangy: Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3)
   - [x] [GraphCast: Learning skilful medium-range global weather forecasting📝](./WebPages/GraphCast.md)
   - [x] [GenCast: Diffusion-based ensemble forecasting for medium-range weather📝](./WebPages/GenCast.md)
   - [ ] [ArchesWeather & ArchesWeatherGen: A Deterministic and Generative Model for ML Weather Forecasting]()
   - [x] [Neural GCM: Neural General Circulation Models for Weather and Climate📝](./WebPages/NeuralGCM.md)
-
+  - [ ] [Aurora: A Foundation Model for the Earth System]()
+  - [ ] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030)
+  - [ ] [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795)
 
 
 #### Research blogs, talks & writing tips
