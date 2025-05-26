@@ -127,6 +127,7 @@ Here are some books I keep somewhere if needed:
 
 ## Blogs and Videos
 Here are some blogs, videos or webpages that I found interseting:
+  - [ ] [The ultrascale-playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
   - [ ] [AI Seminar Series](https://youtube.com/playlist?list=PL1Q2j1q9xaQyYA1fyVUIBnlGcLqnZGthQ&si=ECRb_YMX_PYXHoys) by M. Debbah
   - [x] [CONFERENCE JENSEN HUANG (NVIDIA) and ILYA SUTSKEVER (OPEN AI): AI TODAY AND VISION OF THE FUTURE📝](./WebPages/Discussion%20Ilya%20x%20Jensen%2073db3112e6e34b4896dc9b97cc9ae961.md) by [Ilya Sutskever](https://www.cs.utoronto.ca/~ilya/) and [Jensen Huang](https://www.nvidia.com/fr-fr/)<br>
   - [ ] [Quality-Diversity optimisation algorithms](https://quality-diversity.github.io/) by [Antoine Cully](https://scholar.google.fr/citations?user=rZtJlPQAAAAJ&hl=fr), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) and [Stephane Doncieux](https://pages.isir.upmc.fr/sdoncieux/)<br>
