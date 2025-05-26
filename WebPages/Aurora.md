@@ -29,7 +29,7 @@ Perceiver-IO encoder → 3-D Swin Transformer processor → Perceiver-IO decoder
 3. **Memory-efficient fine-tuning**
 Combines LoRA and the *push-forward trick* so multi-step roll-outs fit on a single A100 GPU.
 4. **Orders-of-magnitude speed-up**
-10-day global 0.1° forecast runs in ≈ 60 s on 1 × A100 versus ≈ 65 min on > 300 CPU nodes for ECMWF-IFS.
+10-day global 0.1° forecast runs in ≈ 60 s on 1 × A100 versus ≈ 65 min on > 300 CPU nodes for ECMWF-IFS. One data point is about 2GB.
 
 ## Architecture:
 
