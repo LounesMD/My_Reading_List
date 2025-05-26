@@ -3,13 +3,11 @@
 Type: Paper
 Link: https://www.nature.com/articles/s41586-025-09005-y
 
-# Aurora: A foundation model for the Earth system
-
 ![image.png](Aurora%20A%20foundation%20model%20for%20the%20Earth%20system%201fb12b7265708083ab7dce6be5c41155/image.png)
 
 ## What is Aurora:
 
-- **Parameters**: **1.3 B**
+- **Learnable parameters**: **1.3 B** (vs 37 M for GraphCast).
 - **Goal**: One backbone that learns a unified 3-D latent state of the Earth and can be *lightly* fine-tuned for very different geophysical tasks.
 - **Released task-specific checkpoints**
 
@@ -29,7 +27,7 @@ Perceiver-IO encoder → 3-D Swin Transformer processor → Perceiver-IO decoder
 3. **Memory-efficient fine-tuning**
 Combines LoRA and the *push-forward trick* so multi-step roll-outs fit on a single A100 GPU.
 4. **Orders-of-magnitude speed-up**
-10-day global 0.1° forecast runs in ≈ 60 s on 1 × A100 versus ≈ 65 min on > 300 CPU nodes for ECMWF-IFS. One data point is about 2GB.
+5-day global 0.4° forecast runs in ≈ 0.6 s lead time on a single A100 GPU, ×100_000 speed-up over CAMS for air quality forecasting.
 
 ## Architecture:
 
@@ -45,22 +43,20 @@ Similar to GraphCast, **Aurora is organised into three stages**:
 
 ![image.png](Aurora%20A%20foundation%20model%20for%20the%20Earth%20system%201fb12b7265708083ab7dce6be5c41155/image%202.png)
 
-All variables are first viewed as 2-D images of size **H × W**. Each image is split into **P × P** non-overlapping patches (Swim); every patch is flattened and linearly projected to a **D-dimensional** embedding.
+All variables are first viewed as 2-D images of size **H × W**. Each image is split into **P × P** non-overlapping patches (Swin Transformer); every patch is flattened and linearly projected to a **D-dimensional** embedding. C × V<sub>A</sub> × T × P × P → C × D and V<sub>S</sub> × T × P × P → 1 × D.
 
-A Perceiver-IO encoder then *reduces* the resulting patch tokens to a **fixed latent set of L tokens** through cross-attention.
+A Perceiver-IO encoder then *reduces* the resulting patch tokens to a **fixed latent set of L tokens** through cross-attention. 
 
 The processor *evolves* these L tokens forward in time (forecast), and the decoder performs the inverse operation—expanding the L latent tokens back to the original patch grid and stitching the patches together—to reconstruct the Earth-state fields.
 
-### Tensor shapes
+### Tensor shapes (one point)
 
 | Stage | Atmosphere | Surface |
 | --- | --- | --- |
 | **Raw input** | **B × V<sub>A</sub> × C × T × H × W** | **B × V<sub>S</sub> × T × H × W** |
-| **After patch-embed & latent pooling** | **B × L × D**<br>(pressure levels *C* aggregated to a fixed latent set) | **B × L × D** |
+| **Backbone input** | **(L + 1) × D**|
 
 *B* batch size · *V<sub>A</sub>* # atmospheric variables · *V<sub>S</sub>* # surface variables · *C* native pressure levels · *T* context frames · *H*, *W* grid height/width.
-
-Aggregating the original pressure levels into a **fixed latent depth** lets Aurora ingest datasets that provide *different* native level lists without changing the network shape.
 
 ## Training Data Mixture
 
@@ -83,9 +79,9 @@ Aggregating the original pressure levels into a **fixed latent depth** lets Auro
 | **Objective** | Mean-absolute-error on a 6 h lead window |
 | **Steps** | **150 000** optimizer steps |
 | **Hardware** | **32 × NVIDIA A100-80 GB** GPUs (bf16) |
-| **Data mix** | Forecasts + analyses + reanalyses + CMIP6 climate simulations (see §4) |
+| **Data mix** | Forecasts + analyses + reanalyses + CMIP6 climate simulations |
 
-The model ingests the heterogeneous stream in a single training loop; no task heads are added at this stage.
+The model uses the heterogeneous stream in a single training loop; no task heads are added at this stage.
 
 ---
 
@@ -103,23 +99,19 @@ All weights remain trainable, but memory use is kept low by combining **LoRA** w
 
 *Example — Air Quality.*
 
-For **Aurora-AQ**, the model is fine-tuned on **CAMS** data from **May 2022 → Nov 2022** to predict
-
-CO, NO, NO₂, SO₂, O₃, and particulate matter (PM₁, PM₂.₅, PM₁₀) at a 5-day lead.
+For **Aurora-AQ**, the model is fine-tuned on **CAMS analysis** data from **October 2017 → May 2022** to predict CO, NO, NO₂, SO₂, O₃, and particulate matter (PM₁, PM₂.₅, PM₁₀) at a 5-day lead from **May 2022 → Nov 2022** .
 
 ---
 
 **Take-away:** One heavy pre-train pass (150 k steps) + light LoRA fine-tunes (≤ 24 k steps) is enough to specialise the *same* 1.3 B-parameter backbone for weather, air-quality, wave, and cyclone tasks.
 
-## Performance Highlights
-
-| Task (lead / res.) | Metric | Aurora vs Baseline |
-| --- | --- | --- |
-| Weather 10 d / 0.1° | Global RMSE (850 hPa T) | Beats ECMWF-IFS on 92 % of vars |
-| Weather 10 d / 0.25° | RMSE | Beats GraphCast on 91 % targets |
-| TC track 5 d | Mean track error | 20–25 % lower than NOAA HWRF |
-| Air quality 5 d / 0.4° | RMSE vs CAMS | Better on 74 % of pollutants |
-| Wave height 10 d / 0.25° | RMSE (Hs) | 19 % lower than WAM analysis |
+| Task (lead / res.)           | Metric                        | Aurora vs Baseline                                                      |
+| ---------------------------- | ----------------------------- | ----------------------------------------------------------------------- |
+| **Weather 10 d / 0.1°**      | Global RMSE (e.g., 850 hPa T) | Beats ECMWF-IFS on **92%** of targets                                   |
+| **Weather 10 d / 0.25°**     | RMSE                          | Beats IFS/GraphCast on **91%** of targets                                   |
+| **TC track 5 d**             | Mean track error              | **20–25%** improvements compared to official forecasts (e.g. NOAA HWRF, PGTW, etc.)   |
+| **Air quality 5 d / 0.4°**   | RMSE vs CAMS                  | Matches or outperforms CAMS on **74%** of targets                       |
+| **Wave height 10 d / 0.25°** | RMSE (SWH)                    | Beats HRES-WAM on **86%** of wave variables|
 
 **Scaling law** Every 10× parameter increase ≈ 6 % relative error drop (37 M → 1.3 B).
 
