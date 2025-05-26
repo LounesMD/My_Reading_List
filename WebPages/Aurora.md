@@ -54,7 +54,7 @@ The processor *evolves* these L tokens forward in time (forecast), and the decod
 | Stage | Atmosphere | Surface |
 | --- | --- | --- |
 | **Raw input** | **B × V<sub>A</sub> × C × T × H × W** | **B × V<sub>S</sub> × T × H × W** |
-| **Backbone input** | **(L + 1) × D**|
+| **Backbone input**| **(L + 1) × D**                        |                                        |
 
 *B* batch size · *V<sub>A</sub>* # atmospheric variables · *V<sub>S</sub>* # surface variables · *C* native pressure levels · *T* context frames · *H*, *W* grid height/width.
 
