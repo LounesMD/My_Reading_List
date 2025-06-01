@@ -119,15 +119,18 @@ Here are some books I keep somewhere if needed:
   - [ ] [Software Engineering at Google](https://abseil.io/resources/swe-book) and the book in short [SWE at Google in short](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
   - [x] [Deep Learning with Python](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) by [François Chollet](https://fchollet.com/)
   - [ ] [The Book of Statistical Proofs](https://statproofbook.github.io/) by Joram Soch et al.<br>
-  - [ ] [Mathematics of Statistical Sequential Decision Making](https://hal.science/tel-02162189) by [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/)<br>
+  <!-- - [ ] [Mathematics of Statistical Sequential Decision Making](https://hal.science/tel-02162189) by [Odalric-Ambrym Maillard](http://odalricambrymmaillard.neowordpress.fr/)<br> -->
   - [ ] [Statistical Learning and Sequential Prediction](https://www.mit.edu/~rakhlin/courses/stat928/stat928_notes.pdf) by [Karthik Sridharan](https://www.cs.cornell.edu/~sridharan/) and [Sasha Rakhlin](https://www.mit.edu/~rakhlin/)
-  - [ ] [Algorithms for decision making](https://algorithmsbook.com/#outline) by [Mykel J. Kochenderfer](https://mykel.kochenderfer.com/), [Tim A. Wheeler](http://timallanwheeler.com/miniport/home.html) and [Kyle H. Wray](https://kylewray.com/)
-  - [ ] [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/) by [Stefano V. Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/), [Filippos Christianos](https://fchristianos.com/) and [Lukas Schäfer](https://www.marl-book.com/) <br>
+  - [ ] [Algorithms for Optimizations/Decision making](https://algorithmsbook.com/#outline) by [Mykel J. Kochenderfer](https://mykel.kochenderfer.com/), [Tim A. Wheeler](http://timallanwheeler.com/miniport/home.html) and [Kyle H. Wray](https://kylewray.com/)
+  <!-- - [ ] [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/) by [Stefano V. Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/), [Filippos Christianos](https://fchristianos.com/) and [Lukas Schäfer](https://www.marl-book.com/) <br> -->
   - [x] [An introduction to Reinforcement Learning](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by [Richard S. Sutton](http://incompleteideas.net/) and [Andrew G. Barto](https://people.cs.umass.edu/~barto/) <br>
+  - [ ] [Advances in Financial Machine Learning](https://agorism.dev/book/finance/ml/Marcos%20Lopez%20de%20Prado%20-%20Advances%20in%20Financial%20Machine%20Learning-Wiley%20(2018).pdf) by [Marcos López de Prado](https://www.quantresearch.org/)<br>
+  - [ ] [Deep Learning]([%20Learning-Wiley%20(2018).pdf](https://www.deeplearningbook.org/)) by [Ian GoodFellow]()<br>
 
 ## Blogs and Videos
 Here are some blogs, videos or webpages that I found interseting:
   - [ ] About GPUs and CUDA/PyTorch: [The ultrascale-playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook) and [Visualize and understand GPU memory in PyTorch](https://huggingface.co/blog/train_memory)
+  - [ ] About processing and evaluating data quality at scale: [🍷 FineWeb: decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
   - [ ] [AI Seminar Series](https://youtube.com/playlist?list=PL1Q2j1q9xaQyYA1fyVUIBnlGcLqnZGthQ&si=ECRb_YMX_PYXHoys) by M. Debbah
   - [x] [CONFERENCE JENSEN HUANG (NVIDIA) and ILYA SUTSKEVER (OPEN AI): AI TODAY AND VISION OF THE FUTURE📝](./WebPages/Discussion%20Ilya%20x%20Jensen%2073db3112e6e34b4896dc9b97cc9ae961.md) by [Ilya Sutskever](https://www.cs.utoronto.ca/~ilya/) and [Jensen Huang](https://www.nvidia.com/fr-fr/)<br>
   - [ ] [Quality-Diversity optimisation algorithms](https://quality-diversity.github.io/) by [Antoine Cully](https://scholar.google.fr/citations?user=rZtJlPQAAAAJ&hl=fr), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) and [Stephane Doncieux](https://pages.isir.upmc.fr/sdoncieux/)<br>
