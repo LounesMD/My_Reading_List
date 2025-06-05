@@ -72,8 +72,6 @@ All the articles I've read and plan to read.<br>
   - [ ] [ArchesWeather & ArchesWeatherGen: A Deterministic and Generative Model for ML Weather Forecasting]()
   - [x] [Neural GCM: Neural General Circulation Models for Weather and Climate📝](./WebPages/NeuralGCM.md)
   - [x] [Aurora: A Foundation Model for the Earth System📝](./WebPages/Aurora.md)
-  - [ ] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030)
-  - [ ] [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795)
 
 
 #### Research blogs, talks & writing tips
@@ -96,6 +94,9 @@ All the articles I've read and plan to read.<br>
 
 
 ### To read
+  - [ ] [Flow Matching Guide and Code](https://arxiv.org/pdf/2412.06264)
+  - [ ] [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030)
+  - [ ] [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/pdf/2107.14795)
   - [ ] [Ilya 30u30](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) (5/30) by [Ilya Sutskever]()
   - [ ] [Making the World Differentiable](https://people.idsia.ch/~juergen/FKI-126-90_(revised)bw_ocr.pdf)
   - [ ] [Player of Games](https://arxiv.org/abs/2112.03178)
