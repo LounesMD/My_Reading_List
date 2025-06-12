@@ -115,6 +115,7 @@ All the articles I've read and plan to read.<br>
 
 ## Books
 Here are some books I keep somewhere if needed:
+  - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/pdf/1701.00854) by [Paul McKenney](http://www.rdrop.com/users/paulmck/)<br>
   - [ ] [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/) by [Christopher Bishop](https://scholar.google.com/citations?user=gsr-K3ADUvAC)<br>
   - [ ] [Pattern recognition and machine learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by [Christopher Bishop](https://scholar.google.com/citations?user=gsr-K3ADUvAC)<br>
   - [ ] [Software Engineering at Google](https://abseil.io/resources/swe-book) and the book in short [SWE at Google in short](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
